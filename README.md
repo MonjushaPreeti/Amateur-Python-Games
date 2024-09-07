@@ -22,5 +22,5 @@ I made these games while learning Python, and they helped me practice logic, use
 
 Feel free to fork this repo and add your own games, or improve these ones.🤝
 
-# Disclaimer: 
+## Disclaimer: 
 These are beginner-level projects, so they might not be the most polished or complex, but they were a lot of fun to make!
